@@ -36,6 +36,9 @@ public class Main {
 		
 		ch = '°¡';
 		System.out.println("ch="+ch);
+		System.out.println((int)ch);
+		ch = '1' + '1';
+		System.out.println("ch="+ch);
 		
 		
 		
