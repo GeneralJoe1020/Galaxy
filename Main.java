@@ -34,13 +34,13 @@ public class Main {
 		System.out.println("ch="+ch);
 		System.out.println("code="+code);
 		
-		ch = '°¡';
+		ch = 'ï¿½ï¿½';
 		System.out.println("ch="+ch);
 		System.out.println((int)ch);
 		ch = '1' + '1';
 		System.out.println("ch="+ch);
 		
-		
+		//ggggggg
 		
 		
 			}
