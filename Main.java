@@ -28,12 +28,14 @@ public class Main {
 //	System.out.println("i="+ ++i);
 //	long z = 0x7fffffffffffffL;
 //	System.out.println("z="+ ++z);
-		double d = 123.456;
-		float f = 123.456f;
-		System.out.println("d="+d+" /f="+f);
-		int g = 5;
-		int g2 = 3;
-		System.out.println();
+		char ch = 'A';
+		char code = '\u0041';
+		
+		System.out.println("ch="+ch);
+		System.out.println("code="+code);
+		
+		ch = '°¡';
+		System.out.println("ch="+ch);
 		
 		
 		
